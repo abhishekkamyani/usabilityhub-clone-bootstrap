@@ -1,0 +1,18 @@
+/* tablet */
+@media (width <= 768px) {
+    .logo{
+        max-width: 30%;
+    }
+
+}
+
+/* mobile */
+@media (width <= 576px) {
+    .logo{
+        max-width: 50%;
+    }
+    .feature-container{
+        background: none;
+    }
+}
+
